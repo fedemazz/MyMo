@@ -1,0 +1,70 @@
+<resources>
+    <string name="list_date">Requerdame el:</string>
+    <string name="list_time">a las:</string>
+    <string name="title">Tìtulo</string>
+    <string name="date">Fecha</string>
+    <string name="hour">Tiempo</string>
+    <string name="priority">Prioridad</string>
+    <string name="classTask">Clase</string>
+    <string name="notes">Notas</string>
+    <string name="no_text_here">Toda vìa no hay texto aquì</string>
+    <string name="cancel">Cancelado</string>
+    <string name="save">Guardar</string>
+    <string name="title_dialog_add">Nuevo recordatorio</string>
+    <string name="control_on_title">Inserta al menos el tìtulo</string>
+    <string name="task_added">Recordatorio anadido</string>
+    <string name="task_not_added">Recordatorio no agregado</string>
+    <string name="task_deleted">Recordatorio eliminado</string>
+    <string name="task_completed">Recordatorio completado</string>
+    <string name="happens_now">Pasa ahora</string>
+    <string name="privatee">Privado</string>
+    <string name="work">Laboral</string>
+    <string name="family">Familia</string>
+    <string name="pie">Pastel</string>
+    <string name="hist">Histograma</string>
+    <string name="box">Box</string>
+    <string name="line">Lìnea</string>
+    <string name="todo">Programado</string>
+    <string name="stats">Estadìstica</string>
+    <string name="pending">Programado</string>
+    <string name="ongoing">En progreso</string>
+    <string name="postpone">Dormitar</string>
+    <string name="settings">Ajustes</string>
+    <string name="deleted_task">Eliminado</string>
+    <string name="completed_task">Terminado</string>
+    <string name="task_become_ongoing">El recordatorio cambia a en progreso</string>
+    <string name="pieDescription">El estado de tus recordatorios:\nProgramado, En progreso, Terminado</string>
+    <string name="pie2Description">Que de jaste?\nQuè has completado?</string>
+    <string name="lineDescription">El numero de recordatorios completado cada dìa este mes</string>
+    <string name="histDescription">El numero de recordatorios pertenecientes\na las diferentes clases</string>
+    <string name="create">Crea</string>
+    <string name="modify">Modificatiòn</string>
+    <string name="all">Todos</string>
+    <string name="no_priority">Without priority</string>
+    <string name="priority_1">Priority 1</string>
+    <string name="priority_2">Priority 2</string>
+    <string name="priority_3">Priority 3</string>
+    <string name="channel_0_description">Channel for notification without priority (0)</string>
+    <string name="channel_1_description">Channel for notification with priority LOW (1)</string>
+    <string name="channel_2_description">Channel for notification with priority MEDIUM (2)</string>
+    <string name="channel_3_description">Channel for notification with priority HIGH (3)</string>
+    <string name="pie_hist">Pastel e istograma</string>
+    <string name="pie_line">Pastel e lìnea</string>
+
+    <string-array name="priority">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="classify">
+        <item>Private</item>
+        <item>School</item>
+        <item>Work</item>
+        <item>Family</item>
+    </string-array>
+    <string name="school">Esquela</string>
+
+
+</resources>

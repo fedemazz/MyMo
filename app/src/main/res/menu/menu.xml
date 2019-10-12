@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/btn_sortClass"
+        app:showAsAction="ifRoom"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="Ordina per" >
+        <menu>
+            <item android:title="@string/all"
+                android:id="@+id/sortAll"/>
+            <item android:title="@string/privatee"
+                android:id="@+id/sortPrivate"/>
+            <item android:title="@string/school"
+                android:id="@+id/sortSchool"/>
+            <item android:title="@string/work"
+            android:id="@+id/sortWork"/>
+            <item android:title="@string/family"
+            android:id="@+id/sortFamily"/>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/btn_sort"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="Ordina per" >
+        <menu>
+            <item android:title="@string/todo"
+                android:id="@+id/sort0"/>
+            <item android:title="@string/priority"
+                android:id="@+id/sort2"/>
+            <item android:title="@string/ongoing"
+                android:id="@+id/sort1"/>
+            <item android:title="@string/task_completed"
+                android:id="@+id/sort3"/>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/stats"
+        android:title="@string/stats"/>
+    <item
+        android:id="@+id/settings"
+        android:title="@string/settings"/>
+</menu>

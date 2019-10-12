@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_land1"
+        android:icon="@drawable/ic_filter_1_black_24dp"
+        android:title="@string/pie_hist" />
+
+    <item
+        android:id="@+id/navigation_land2"
+        android:icon="@drawable/ic_filter_2_black_24dp"
+        android:title="@string/pie_line" />
+
+</menu>

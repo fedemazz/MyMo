@@ -1,0 +1,73 @@
+<resources>
+    <string name="list_date">Ricordamelo il: </string>
+    <string name="list_time">alle: </string>
+    <string name="classTask">Classe</string>
+    <string name="date">Data</string>
+    <string name="hour">Ora</string>
+    <string name="notes">Note</string>
+    <string name="priority">Priorità</string>
+    <string name="title">Titolo</string>
+    <string name="no_text_here">Ancora nessun testo qui</string>
+    <string name="cancel">Annulla </string>
+    <string name="save">Salva </string>
+    <string name="control_on_title">Inserire almeno il titolo</string>
+    <string name="task_added">Promemoria aggiunto</string>
+    <string name="task_not_added">Promemoria non aggiunto</string>
+    <string name="title_dialog_add">Nuovo memo</string>
+    <string name="happens_now">Accade ora!</string>
+    <string name="task_completed">Promemoria completato</string>
+    <string name="task_deleted">Promemoria eliminato</string>
+    <string name="privatee">Privato</string>
+    <string name="school">Scuola</string>
+    <string name="work">Lavoro</string>
+    <string name="family">Famiglia</string>
+    <string name="pie">Torta</string>
+    <string name="hist">Istogramma</string>
+    <string name="box">Box</string>
+    <string name="line">Linea</string>
+    <string name="todo">Programmati</string>
+    <string name="stats">Statistiche</string>
+    <string name="pending">Programmati</string>
+    <string name="ongoing">In corso</string>
+    <string name="postpone">Posponi</string>
+    <string name="settings">Impostazioni</string>
+    <string name="deleted_task">Eliminati</string>
+    <string name="completed_task">Completati</string>
+    <string name="task_become_ongoing">Il promemoria passa a "in corso"</string>
+    <string name="pieDescription">Ecco i tipi di memo presenti nella tua app:\nProgrammati, In corso, Completati</string>
+    <string name="pie2Description">Che cos\'hai lasciato perdere?\nChe cos\'hai completato?</string>
+    <string name="lineDescription">Il numero di memo completati ogni giorno questo mese</string>
+    <string name="histDescription">Il numero di memo appartenenti\nalle varie classi</string>
+    <string name="create">Crea</string>
+    <string name="modify">Modifica</string>
+    <string name="all">Tutto</string>
+    <string name="no_priority">Nessuna priorità</string>
+    <string name="priority_1">Priorità 1</string>
+    <string name="priority_2">Priorità 2</string>
+    <string name="priority_3">Priorità 3</string>
+    <string name="channel_0_description">Canale per le notifiche senza priorità (0)</string>
+    <string name="channel_1_description">Canale per le notifiche con priorità BASSA (1)</string>
+    <string name="channel_2_description">Canale per le notifiche con priorità MEDIA (2)</string>
+    <string name="channel_3_description">Canale per le notifiche con priorità ALTA (3)</string>
+    <string name="pie_hist">Torta e istogramma</string>
+    <string name="pie_line">Torta e linea</string>
+
+
+
+    <string-array name="priority">
+            <item>0</item>
+            <item>1</item>
+            <item>2</item>
+            <item>3</item>
+        </string-array>
+
+        <string-array name="classify">
+            <item>Privato</item>
+            <item>Scuola</item>
+            <item>Lavoro</item>
+            <item>Famiglia</item>
+        </string-array>
+
+
+
+</resources>

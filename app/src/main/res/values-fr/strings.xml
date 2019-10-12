@@ -1,0 +1,70 @@
+<resources>
+    <string name="list_date">Souviens de moi le:</string>
+    <string name="list_time">à</string>
+    <string name="title">Titre</string>
+    <string name="date">Date</string>
+    <string name="hour">Temps</string>
+    <string name="priority">Prioritè</string>
+    <string name="classTask">Classe</string>
+    <string name="notes">Notes </string>
+    <string name="no_text_here">Toujours pas de texte ici</string>
+    <string name="cancel">Annulation</string>
+    <string name="save">Sauver</string>
+    <string name="title_dialog_add">Nouveau rappel</string>
+    <string name="control_on_title">Inserer au moins le titre</string>
+    <string name="task_added">Rappel ajoutè</string>
+    <string name="task_not_added">Rappel non ajoutè</string>
+    <string name="task_deleted">Rappel supprimè</string>
+    <string name="task_completed">Rappel terminè</string>
+    <string name="happens_now">Arrive maintenant</string>
+    <string name="privatee">Privè</string>
+    <string name="school">Ecole</string>
+    <string name="work">Travaille</string>
+    <string name="family">Famille</string>
+    <string name="pie">Gateau</string>
+    <string name="hist">Histogramme</string>
+    <string name="box">Box</string>
+    <string name="line">Ligne</string>
+    <string name="todo">Prèvue</string>
+    <string name="stats">Statistiques</string>
+    <string name="pending">Prèvue</string>
+    <string name="ongoing">En course</string>
+    <string name="postpone">Roupillon</string>
+    <string name="settings">Parametres</string>
+    <string name="deleted_task">Eliminè</string>
+    <string name="completed_task">Termine\'</string>
+    <string name="task_become_ongoing">Le rappel devient en course</string>
+    <string name="lineDescription">Le nombre de rappels terminès\nchaque jour ce mois-ci</string>
+    <string name="histDescription">Le nombre de rappels appartenant\n aux diffèrentes classes</string>
+    <string name="create">Crèe</string>
+    <string name="modify">Modification</string>
+    <string name="all">Tout</string>
+    <string name="no_priority">Without priority</string>
+    <string name="priority_1">Priority 1</string>
+    <string name="priority_2">Priority 2</string>
+    <string name="priority_3">Priority 3</string>
+    <string name="channel_0_description">Channel for notification without priority (0)</string>
+    <string name="channel_1_description">Channel for notification with priority LOW (1)</string>
+    <string name="channel_2_description">Channel for notification with priority MEDIUM (2)</string>
+    <string name="channel_3_description">Channel for notification with priority HIGH (3)</string>
+    <string name="pie_hist">Gateu e histogramme</string>
+    <string name="pie_line">Gateau e ligne</string>
+
+    <string-array name="priority">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="classify">
+        <item>Private</item>
+        <item>School</item>
+        <item>Work</item>
+        <item>Family</item>
+    </string-array>
+    <string name="pie2Description">Qu\'est-ce que tu as laissè partir? Qu\'as-tu complètè?</string>
+    <string name="pieDescription">Les types de rappels prèsents:\nEn course, Pending, Terminè</string>
+
+
+</resources>
